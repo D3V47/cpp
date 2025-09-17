@@ -21,6 +21,13 @@ By the end, students can:
 Write a program that reads three integers `a, b, c` and computes:
 
 1. `a + b * c`
+```cpp
+// this is my comment
+```
+
+
+
+
 2. `(a + b) * c`
 3. `a / b * c`
 4. `a / (b * c)`
